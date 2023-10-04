@@ -1,2 +1,24 @@
 INFO:root:Created driver for Neo4j DB.
 INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 30
+INFO:root:Created driver for Neo4j DB.
+INFO:root:Performing a test query (e.g., fetching nodes count from the db)....
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 30
+INFO:root:Created driver for Neo4j DB.
+INFO:root:Performing a test query (e.g., fetching nodes count from the db)....
+INFO:root:Performing a test query (e.g., fetching nodes count from the db)....
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 0
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 0
+INFO:root:Created driver for Neo4j DB.
+INFO:root:Performing a test query (e.g., fetching nodes count from the db)....
+INFO:root:Performing a test query (e.g., fetching nodes count from the db)....
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 0
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 0
+INFO:root:Created driver for Neo4j DB.
+INFO:root:Performing a test query (e.g., fetching nodes count from the db)....
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 0
+INFO:root:Finshed json loading.
+INFO:root:Starting data insertion to neo4j db nodes and relationships from json.
+INFO:root:Finished data insertion.
+INFO:root:Created driver for Neo4j DB.
+INFO:root:Performing a test query (e.g., fetching nodes count from the db)....
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 30
