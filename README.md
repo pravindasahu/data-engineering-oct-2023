@@ -25,6 +25,11 @@ Task 2 & 3 - Friday 6th Oct. 5pm (AEST)
 
 Note: you only need to commit the notebook, and you do not need to provide a backup of the database
 
+-> ResearchGraph.ipynb contains all the steps for Task 1 results. To use the same please ensure that below details in config.ini is updated with the details of the database you use:
+1. uri 
+2. username
+3. password
+
 ## Task 2
 2.1 - Calculate the following measures in this data
 * Top 10 organisations with the highest degree of centrality 
