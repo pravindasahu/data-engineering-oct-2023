@@ -1,0 +1,2 @@
+INFO:root:Created driver for Neo4j DB.
+INFO:root:Successfully connected to Neo4j db. Total nodes in the database: 30
