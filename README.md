@@ -44,7 +44,7 @@ Note: you only need to commit the notebook, and you do not need to provide a bac
 Note: The main challenge in this task is understanding the structure of the network and working with centrality algorithms. 
 This article can help with the algorithm: https://neo4j.com/docs/graph-data-science/current/algorithms/degree-centrality/
 
---> Added ResearchGraph_task2&3.ipynb for task 2. Please run all the jupyter cells to see the results for Centrality. Please install all the necessaru liberaries before executing the jupyter notebook as discussed in above step(Task 1)
+--> Added ResearchGraph_task2&3.ipynb for task 2. Please run all the jupyter cells to see the results for Centrality. Please install all the necessaru liberaries and also add your credentials for neo4j db to config.ini before executing the jupyter notebook as discussed in above step(Task 1).
 
 
 ## Task 3
