@@ -25,7 +25,11 @@ Task 2 & 3 - Friday 6th Oct. 5pm (AEST)
 
 Note: you only need to commit the notebook, and you do not need to provide a backup of the database
 
--> ResearchGraph.ipynb contains all the steps for Task 1 results. To use the same please ensure that below details in config.ini are updated with the details of the neo4j database you use:
+-> Please install the liberaries needed for neo4j using the below commands before executing the jupyter notebook.
+* pip install neo4j 
+* pip install ipython-cypher
+
+ ResearchGraph.ipynb contains all the steps for Task 1 results. To use the same please ensure that below details in config.ini are updated with the details of the neo4j database you use:
 1. uri 
 2. username
 3. password
@@ -40,6 +44,7 @@ Note: you only need to commit the notebook, and you do not need to provide a bac
 Note: The main challenge in this task is understanding the structure of the network and working with centrality algorithms. 
 This article can help with the algorithm: https://neo4j.com/docs/graph-data-science/current/algorithms/degree-centrality/
 
+--> Added ResearchGraph_task2&3.ipynb for task 2. Please run all the jupyter cells to see the results for Centrality. Please install all the necessaru liberaries and also add your credentials for neo4j db to config.ini before executing the jupyter notebook as discussed in above step(Task 1).
 
 
 ## Task 3
